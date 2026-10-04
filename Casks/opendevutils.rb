@@ -1,6 +1,6 @@
 cask "opendevutils" do
-  version "1.0.5"
-  sha256 "63a3b3e9bfd4098405488ea331e4ed827897b181b76d0aafc2f4817ea58301bd"
+  version "1.0.6"
+  sha256 "ce89b0710e05cf82323964878d6f9ed75643411da9e690f8b3350c9305c1e865"
 
   url "https://github.com/gaoquanao/OpenDevUtils/releases/download/v#{version}/OpenDevUtils.dmg"
   name "OpenDevUtils"
